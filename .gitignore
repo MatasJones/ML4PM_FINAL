@@ -1,0 +1,18 @@
+# Ignore all parquet files
+*.parquet
+
+# (optional) Ignore Jupyter notebook auto-checkpoints
+.ipynb_checkpoints/
+
+# (optional) Ignore Python cache
+__pycache__/
+*.pyc
+
+# (optional) Ignore data folders if you ever use them
+data/
+datasets/
+
+# (optional) Ignore temporary editor files
+*.swp
+*.swo
+.DS_Store
