@@ -1,0 +1,31 @@
+signal_id,measurement_unit,type_id,plant,stage,machine_group,signal_name,description
+8890,MW,measurement (analog),KSL,Mapragg,MG1,active_power,Active power measurement
+9620,,Bool,KSL,Mapragg,MG1,ball_valve_closed,Ball valve position rotating body closed (true if valve is fully closed)
+9619,,Bool,KSL,Mapragg,MG1,ball_valve_open,Ball valve position rotating body open (true if valve is fully open)
+11247,%,measurement (analog),KSL,Mapragg,MG1,guide_vane_position,Guide vane position measurement
+11333,bar,measurement (analog),KSL,Mapragg,MG1,water_pressure_downstream,water pressure downstream of the turbine
+11331,bar,measurement (analog),KSL,Mapragg,MG1,water_pressure_upstream,water pressure upstram of the turbine
+16769,MW,measurement (analog),KSL,Sarelli,MG1,active_power,Active power measurement
+15454,,Bool,KSL,Sarelli,MG1,ball_valve_closed,Ball valve position rotating body closed (true if valve is fully closed)
+15453,,Bool,KSL,Sarelli,MG1,ball_valve_open,Ball valve position rotating body open (true if valve is fully open)
+16679,%,measurement (analog),KSL,Sarelli,MG1,guide_vane_position,Guide vane position measurement
+14156,bar,measurement (analog),KSL,Sarelli,MG1,water_pressure_downstream,water pressure downstream of the turbine
+14154,bar,measurement (analog),KSL,Sarelli,MG1,water_pressure_upstream,water pressure upstram of the turbine
+26499,MW,measurement (analog),KSL,Mapragg,MG2,active_power,Active power measurement
+30654,,Bool,KSL,Mapragg,MG2,ball_valve_closed,Ball valve position rotating body closed (true if valve is fully closed)
+30653,,Bool,KSL,Mapragg,MG2,ball_valve_open,Ball valve position rotating body open (true if valve is fully open)
+29296,%,measurement (analog),KSL,Mapragg,MG2,guide_vane_position,Guide vane position measurement
+29388,bar,measurement (analog),KSL,Mapragg,MG2,water_pressure_downstream,water pressure downstream of the turbine
+29386,bar,measurement (analog),KSL,Mapragg,MG2,water_pressure_upstream,water pressure upstram of the turbine
+16796,MW,measurement (analog),KSL,Sarelli,MG2,active_power,Active power measurement
+24141,,Bool,KSL,Sarelli,MG2,ball_valve_closed,Ball valve position rotating body closed (true if valve is fully closed)
+24140,,Bool,KSL,Sarelli,MG2,ball_valve_open,Ball valve position rotating body open (true if valve is fully open)
+25120,%,measurement (analog),KSL,Sarelli,MG2,guide_vane_position,Guide vane position measurement
+25207,bar,measurement (analog),KSL,Sarelli,MG2,water_pressure_downstream,water pressure downstream of the turbine
+25205,bar,measurement (analog),KSL,Sarelli,MG2,water_pressure_upstream,water pressure upstram of the turbine
+18263,MW,measurement (analog),KSL,Mapragg,MG3,active_power,Active power measurement
+19318,,Bool,KSL,Mapragg,MG3,ball_valve_closed,Ball valve position rotating body closed (true if valve is fully closed)
+19317,,Bool,KSL,Mapragg,MG3,ball_valve_open,Ball valve position rotating body open (true if valve is fully open)
+21058,%,measurement (analog),KSL,Mapragg,MG3,guide_vane_position,Guide vane position measurement
+21145,bar,measurement (analog),KSL,Mapragg,MG3,water_pressure_downstream,water pressure downstream of the turbine
+21143,bar,measurement (analog),KSL,Mapragg,MG3,water_pressure_upstream,water pressure upstram of the turbine
